@@ -1,0 +1,20 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build
+out/
+bin/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
