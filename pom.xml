@@ -22,6 +22,13 @@
         </repository>
     </distributionManagement>
 
+    <repositories>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/Amer-Abuyaqob/DataStructures</url>
+        </repository>
+    </repositories>
+
     <build>
         <plugins>
             <plugin>
