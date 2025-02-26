@@ -17,8 +17,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Amer-Abuyaqob/DataStructures</url>
+            <name>github packages</name>
+            <url>https://maven.pkg.github.com/amer-abuyaqob/datastructures</url>
         </repository>
     </distributionManagement>
 
